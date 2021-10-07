@@ -2,7 +2,7 @@
 
 I'm an Computer Scientist Student at UTFPR!
 
-- 🌱 I’m currently Learning Angular, VUE, Typscript, JavaScript.
+- 🌱 I’m currently Learning Angular, Typscript, JavaScript and Java.
 
 - 📫 My E-mail: vinicius.henriquesoares@outlook.com
 
