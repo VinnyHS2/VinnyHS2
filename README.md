@@ -11,8 +11,7 @@ I'm an Computer Scientist Student at UTFPR!
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyHS2&theme=radical&bg_color=0d1117&layout=compact" /> -->
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=VinnyHS2&theme=radical&bg_color=0d1117&count_private=true&hide=stars&icon_color=d03a79&show_icons=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=VinnyHS2&theme=radical&bg_color=0d1117&count_private=true&hide=stars&icon_color=d03a79&show_icons=true" /> -->
 
 </a>
 
